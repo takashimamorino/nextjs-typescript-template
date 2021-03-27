@@ -1,1 +1,1 @@
-# nextjs-typescript
+# nextjs-typescript-template
